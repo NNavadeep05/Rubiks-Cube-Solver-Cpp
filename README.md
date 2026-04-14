@@ -74,4 +74,4 @@ make
 ```
 
 ## Developer
-- Navadeep Nandedapu
+- Navadeep Nandedapu | Indian Institute of Technology Kharagpur
