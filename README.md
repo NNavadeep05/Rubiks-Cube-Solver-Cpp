@@ -75,4 +75,4 @@ make
 
 ## Developer
 • Navadeep Nandedapu
-  Indian Institute of Technology Kharagpur
+• Indian Institute of Technology Kharagpur
