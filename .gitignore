@@ -1,0 +1,7 @@
+build/
+Databases/*.txt
+*.exe
+*.obj
+*.o
+*.out
+*.log
